@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:0,Vip Premiere HD
+#EXTINF:-1 group-title="Кино" ,Vip Premiere HD
 https://ucdn.beetv.kz/bpk-tv/000000868/tve/index.m3u8
-#EXTINF:0,Vip Megahit HD
+#EXTINF:-1 group-title="Кино" ,Vip Megahit HD
 https://ucdn.beetv.kz/bpk-tv/000000869/tve/index.m3u8
-#EXTINF:0,Vip Comedy HD
+#EXTINF:-1 group-title="Кино" ,Vip Comedy HD
 https://ucdn.beetv.kz/bpk-tv/000000870/tve/index.m3u8
-#EXTINF:0,Vip Serial HD
+#EXTINF:-1 group-title="Кино" ,Vip Serial HD
 https://ucdn.beetv.kz/bpk-tv/000004375/tve/index.m3u8
-#EXTINF:0,TV1000 русское HD
+#EXTINF:-1 group-title="Кино" ,TV1000 русское HD
 https://ucdn.beetv.kz/bpk-tv/000003748/tve/index.m3u8
-#EXTINF:0,TV1000 HD
+#EXTINF:-1 group-title="Кино" ,TV1000 HD
 https://ucdn.beetv.kz/bpk-tv/000003747/tve/index.m3u8
 #EXTINF:0,TV1000 action HD
 https://ucdn.beetv.kz/bpk-tv/000003910/tve/index.m3u8
