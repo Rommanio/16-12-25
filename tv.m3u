@@ -15,8 +15,24 @@ https://ucdn.beetv.kz/bpk-tv/000003747/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000003910/tve/index.m3u8
 #EXTINF:-1 group-title="Кино", Мужское кино
 http://158.101.222.193:88/georgia_play.php?id=interesnoetv
+#EXTINF:-1 group-title="Кино", Киноужас
+http://158.101.222.193:88/georgia_play.php?id=kinoujas
+#EXTINF:-1 group-title="Кино", Наше новое кино HD
+https://vod.splay.uz/live_splay/original/Nashe_novoe_kino/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино", Киносвидание
+http://195.158.223.132:8008/Kinosvidanie
+#EXTINF:-1 group-title="Кино", Родное кино
+http://84.54.128.52:9090/play/a009/index.m3u8
+#EXTINF:-1 group-title="Кино", Кинопоказ
+http://95.66.188.74/Kinopokaz/mono.m3u8
+#EXTINF:-1 group-title="Кино", Hollywood
+http://193.25.8.59:8000/interaz
 #EXTINF:-1 group-title="Кино" ,Феникс+Кино
 https://ucdn.beetv.kz/bpk-tv/000000125/tve/index.m3u8
+#EXTINF:-1 group-title="Кино", Русский роман
+http://85.208.223.249:8888/play/a007
+#EXTINF:-1 group-title="Кино", Русский детектив
+http://195.158.223.132:8008/Russkiy_Detektiv
 #EXTINF:-1 group-title="Кино" ,Семейное кино HD
 https://ucdn.beetv.kz/bpk-tv/000008489/tve/index.m3u8
 #EXTINF:-1 group-title="Кино" ,Сапфир HD
@@ -363,16 +379,26 @@ https://ucdn.beetv.kz/bpk-tv/000000264/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000000030/tve/index.m3u8
 #EXTINF:-1 group-title="Музыка" ,MCM Top
 https://ucdn.beetv.kz/bpk-tv/000000327/tve/index.m3u8
+#EXTINF:-1 group-title="Музыка", Жар Птица
+http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8
+#EXTINF:-1 group-title="Музыка", Bridge Fresh
+http://195.158.223.132:8004/Bridge_Fresh
 #EXTINF:-1 group-title="Спорт" ,Eurosport 2 HD
 https://ucdn.beetv.kz/bpk-tv/000002479/tve/index.m3u8
 #EXTINF:-1 group-title="Спорт" ,Eurosport 1 HD
 https://ucdn.beetv.kz/bpk-tv/000002478/tve/index.m3u8
 #EXTINF:-1 group-title="Спорт" ,Матч! Арена
 http://194.143.148.28:8080/MatchArena/mpegts
+#EXTINF:-1 group-title="Спорт", Матч! Планета
+http://158.101.222.193:88/georgia_play.php?id=matchplaneta
 #EXTINF:-1 group-title="Спорт" ,Матч ТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
 #EXTINF:-1 group-title="Спорт" ,KHL Prime
 http://194.143.148.28:8080/KHL_HD/mpegts
+#EXTINF:-1 group-title="Спорт", Старт Баскет
+https://bl.webcaster.pro/media/playlist/free_621d169e5c631c638136df3cb136c5c9/33_68881676/1080p/b32eaae5fbf1d2b8211543566a1d9a78/4914392769.m3u8?live=15&ref=https://tvstart.ru/channels/start-basket-test/
+#EXTINF:-1 group-title="Спорт", Astrakhan.RU Sport HD
+http://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
 #EXTINF:-1 group-title="Спорт" ,Удар HD
 https://ucdn.beetv.kz/bpk-tv/000007802/tve/index.m3u8
 #EXTINF:-1 group-title="Спорт" ,Trace Urban HD
