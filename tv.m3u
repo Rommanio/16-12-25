@@ -15,8 +15,6 @@ https://ucdn.beetv.kz/bpk-tv/000003747/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000003910/tve/index.m3u8
 #EXTINF:-1 group-title="Кино", Мужское кино
 http://158.101.222.193:88/georgia_play.php?id=interesnoetv
-#EXTINF:-1 group-title="Кино", .Black
-http://158.101.222.193:88/georgia_play.php?id=black
 #EXTINF:-1 group-title="Кино" ,Феникс+Кино
 https://ucdn.beetv.kz/bpk-tv/000000125/tve/index.m3u8
 #EXTINF:-1 group-title="Кино" ,Семейное кино HD
