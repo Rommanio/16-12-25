@@ -39,6 +39,8 @@ https://ucdn.beetv.kz/bpk-tv/000000125/tve/index.m3u8
 http://85.208.223.249:8888/play/a007
 #EXTINF:-1 group-title="Кино", Русский детектив
 http://195.158.223.132:8008/Russkiy_Detektiv
+#EXTINF:-1 group-title="Кино",РУССКИЙ БЕСТСЕЛЛЕР
+http://31.148.48.15:80/Russkiy_Bestseller/index.m3u8?token=test
 #EXTINF:-1 group-title="Кино" ,Семейное кино HD
 https://ucdn.beetv.kz/bpk-tv/000008489/tve/index.m3u8
 #EXTINF:-1 group-title="Кино" ,Сапфир HD
@@ -49,6 +51,8 @@ http://194.158.222.36:6086
 http://193.25.8.59:8000/tlc
 #EXTINF:-1 group-title="Кино" ,Про любовь
 http://vod.stb.tvime.ru/Pro_Lubov_HD/video.m3u8
+#EXTINF:-1 group-title="Кино",Ultra HD Cinema test
+http://a775797544-zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/video_1920x1080_avc1/playlist.m3u8?version=3#parser
 #EXTINF:-1 group-title="Кино" ,Русский Иллюзион
 https://ucdn.beetv.kz/bpk-tv/000004207/tve/index.m3u8
 #EXTINF:-1 group-title="Кино" ,Премиум Кино HD
@@ -287,8 +291,12 @@ http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Общие",МИР
 https://ucdn.beetv.kz/bpk-tv/000002555/tve/index.m3u8
+#EXTINF:-1 group-title="Общие",Мир HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 group-title="Общие",МИР 24
 https://ucdn.beetv.kz/bpk-tv/000002557/tve/index.m3u8
+#EXTINF:-1 group-title="Общие",МИР24 HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 group-title="Общие",Перец
 https://ucdn.beetv.kz/bpk-tv/000001248/tve/index.m3u8
 #EXTINF:-1 group-title="Общие",Че! (+7)
@@ -311,6 +319,10 @@ https://ucdn.beetv.kz/bpk-tv/000000026/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000002510/tve/index.m3u8
 #EXTINF:-1 group-title="Хобби" ,Диалоги о Рыбалке
 https://ucdn.beetv.kz/bpk-tv/000003174/tve/index.m3u8
+#EXTINF:-1 group-title="Хобби",Дикая охота HD test
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_DOMASHNIY/variant.m3u8
+#EXTINF:-1 group-title="Хобби",Дикая рыбалка HD test
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_PERETZ/variant.m3u8
 #EXTINF:-1 group-title="Хобби" ,Авто Плюс
 http://158.101.222.193:88/georgia_play.php?id=autoplus
 #EXTINF:-1 group-title="Развлечение" ,Домашние животные
@@ -361,6 +373,8 @@ http://95.66.188.74/Arsenal_HD/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000000286/tve/index.m3u8
 #EXTINF:-1 group-title="Развлечение" ,Загородная жизнь HD
 https://ucdn.beetv.kz/bpk-tv/000000289/tve/index.m3u8
+#EXTINF:-1 group-title="Развлечение" ,Загородный Int
+https://livetv.mylifeisgood.net.ru/channels/zagorodint.m3u8
 #EXTINF:-1 group-title="Развлечение" ,Телекафе
 https://ucdn.beetv.kz/bpk-tv/000000206/tve/index.m3u8
 #EXTINF:-1 group-title="Развлечение" ,МОДА
@@ -401,6 +415,10 @@ https://ucdn.beetv.kz/bpk-tv/000000204/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000000013/tve/index.m3u8
 #EXTINF:-1 group-title="Музыка" ,МУЗ ТВ (+4)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_4/variant.m3u8
+#EXTINF:-1 group-title="Музыка" ,Первый музыкальный
+http://hz1.teleport.cc/HLS/HD.m3u8
+#EXTINF:-1 group-title="Музыка",Страна FM ТВ HD
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Музыка" ,Шансон ТВ
 https://ucdn.beetv.kz/bpk-tv/000000210/tve/index.m3u8
 #EXTINF:-1 group-title="Музыка" ,MTV Live HD
@@ -533,6 +551,10 @@ https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R02_EFIR24/variant.m3u8
 https://rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R01_UTV/variant.m3u8
 #EXTINF:-1 group-title="Региональные" ,Миллет
 http://live.trkmillet.ru/millet/index.m3u8
+#EXTINF:-1 group-title="Региональные",Матур ТВ HD
+http://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
+#EXTINF:-1 group-title="Региональные",Maidan TV HD
+http://live-maidantv.cdnvideo.ru/maidantv/maidantv_720/playlist.m3u8
 #EXTINF:-1 group-title="Региональные" ,Курай-ТВ
 http://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8
 #EXTINF:-1 group-title="Региональные" ,БСТ HD
