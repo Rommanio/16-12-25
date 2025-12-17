@@ -503,10 +503,22 @@ http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3
 http://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
 #EXTINF:-1 group-title="Региональные" ,ТНВ-Планета
 https://ucdn.beetv.kz/bpk-tv/000000418/tve/index.m3u8
+#EXTINF:-1 group-title="Региональные" ,Майдан
+https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R05_MAIDAN/variant.m3u8
+#EXTINF:-1 group-title="Региональные" ,Татарстан-24
+https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R02_EFIR24/variant.m3u8
+#EXTINF:-1 group-title="Региональные" ,ЮТВ Чебоксары
+https://rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R01_UTV/variant.m3u8
 #EXTINF:-1 group-title="Региональные" ,БСТ HD
 http://bsttv.bonus-tv.ru/cdn/bst/playlist_sdhigh.m3u8
 #EXTINF:-1 group-title="Региональные" ,Башкортостан 24 HD
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/bashkortostan24-hd/index.m3u8
+#EXTINF:-1 group-title="Региональные" ,Кавказ 24
+https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_STAVR_KAVKAZ24/variant.m3u8
+#EXTINF:-1 group-title="Региональные" ,РГВК Дагестан
+https://rt-sth-mahachk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_MAHACHK_DAGESTAN/variant.m3u8
+#EXTINF:-1 group-title="Региональные" ,Осетия-Ирыстон HD
+https://rt-sth-vkaz-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_VKAZ_IRISTON/variant.m3u8
 #EXTINF:-1 group-title="Казахстанские" ,QAZAQSTAN HD
 https://ucdn.beetv.kz/bpk-tv/000004208/tve/index.m3u8
 #EXTINF:-1 group-title="Казахстанские" ,Хабар HD
