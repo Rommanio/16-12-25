@@ -21,12 +21,28 @@ http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
 http://158.101.222.193:88/georgia_play.php?id=interesnoetv
 #EXTINF:-1 group-title="Кино", Киноужас
 http://158.101.222.193:88/georgia_play.php?id=kinoujas
+#EXTINF:-1 group-title="Кино", Киноужас дубль
+http://178.212.71.253:8000/play/133/index.m3u8
+#EXTINF:-1 group-title="Кино", Шокирующее test
+http://vasilijsd.kazaktelekom.com/iptv/VEXVELA6Z7PXH6/6299/index.m3u8
+#EXTINF:-1 group-title="Кино", Кошмар ХД тест
+http://195.9.195.3:8080/hls/204709.m3u8
 #EXTINF:-1 group-title="Кино", Кинохит HD
 http://195.158.223.132:8008/Kinohit
+#EXTINF:-1 group-title="Кино", Киномикс
+http://178.212.71.253:8000/play/70/index.m3u8
+#EXTINF:-1 group-title="Кино", Киномикс тест
+http://93.170.254.17/Kinomiks/index.m3u8
+#EXTINF:-1 group-title="Кино", Кинопремьера тест
+http://178.212.71.253:8000/play/125/index.m3u8
 #EXTINF:-1 group-title="Кино", Наше новое кино HD
 https://vod.splay.uz/live_splay/original/Nashe_novoe_kino/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино", Киносвидание
 http://195.158.223.132:8008/Kinosvidanie
+#EXTINF:-1 group-title="Кино", Кинокомедия
+http://178.212.71.253:8000/play/85/index.m3u8
+#EXTINF:-1 group-title="Кино", Киносемья тест
+http://178.212.71.253:8000/play/127/index.m3u8
 #EXTINF:-1 group-title="Кино", Индийское Кино
 http://188.113.190.12/329/index.m3u8
 #EXTINF:-1 group-title="Кино", Родное кино
@@ -59,6 +75,8 @@ https://ucdn.beetv.kz/bpk-tv/000004207/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000008491/tve/index.m3u8
 #EXTINF:-1 group-title="Кино" ,Победа
 https://ucdn.beetv.kz/bpk-tv/000004534/tve/index.m3u8
+#EXTINF:-1 group-title="Кино" ,Патриот
+http://catchup.videoline.ru/asvtv/index.m3u8
 #EXTINF:-1 group-title="Кино" ,НСТ
 https://ucdn.beetv.kz/bpk-tv/000000078/tve/index.m3u8
 #EXTINF:-1 group-title="Кино" ,Мосфильм. Золотая коллекция
@@ -309,6 +327,8 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
 https://ucdn.beetv.kz/bpk-tv/000004585/tve/index.m3u8
 #EXTINF:-1 group-title="Развлечение" ,ПОЕХАЛИ!
 https://ucdn.beetv.kz/bpk-tv/000002991/tve/index.m3u8
+#EXTINF:-1 group-title="Развлечение" ,Сарафан
+http://178.212.71.253:8000/play/44/index.m3u8
 #EXTINF:-1 group-title="Наука" ,Планета HD
 https://ucdn.beetv.kz/bpk-tv/000001049/tve/index.m3u8
 #EXTINF:-1 group-title="Развлечение" ,Живая природа HD
@@ -327,6 +347,8 @@ http://hlsstr01.svc.iptv.rt.ru/hls/CH_PERETZ/variant.m3u8
 http://158.101.222.193:88/georgia_play.php?id=autoplus
 #EXTINF:-1 group-title="Развлечение" ,Домашние животные
 https://ucdn.beetv.kz/bpk-tv/000000146/tve/index.m3u8
+#EXTINF:-1 group-title="Развлечение" ,Психология тест
+http://178.212.71.253:8000/play/96/index.m3u8
 #EXTINF:-1 group-title="Развлечение" ,Глазами Туриста HD
 https://ucdn.beetv.kz/bpk-tv/000001414/tve/index.m3u8
 #EXTINF:-1 group-title="Развлечение" ,National Geographic HD
@@ -391,12 +413,16 @@ https://ucdn.beetv.kz/bpk-tv/000006638/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000000588/tve/index.m3u8
 #EXTINF:-1 group-title="Развлечение" ,Время
 https://ucdn.beetv.kz/bpk-tv/000000205/tve/index.m3u8
+#EXTINF:-1 group-title="Развлечение" ,Ретро
+https://vod.splay.uz/live_splay/original/Retro/index.m3u8
 #EXTINF:-1 group-title="Развлечение" ,Аппетитный
 https://ucdn.beetv.kz/bpk-tv/000008877/tve/index.m3u8
 #EXTINF:-1 group-title="Развлечение" ,Анекдот ТВ
 https://ucdn.beetv.kz/bpk-tv/000001921/tve/index.m3u8
 #EXTINF:-1 group-title="Развлечение" ,АВТО 24
 https://ucdn.beetv.kz/bpk-tv/000000815/tve/index.m3u8
+#EXTINF:-1 group-title="Развлечение" ,Fast & FunBox
+http://193.25.8.59:8000/Avto24
 #EXTINF:-1 group-title="Развлечение" ,Зоопарк
 https://ucdn.beetv.kz/bpk-tv/000000260/tve/index.m3u8
 #EXTINF:-1 group-title="Развлечение" ,Вопросы и ответы
@@ -433,6 +459,30 @@ https://ucdn.beetv.kz/bpk-tv/000000327/tve/index.m3u8
 http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8
 #EXTINF:-1 group-title="Музыка", Bridge Fresh
 http://195.158.223.132:8004/Bridge_Fresh
+#EXTINF:-1 group-title="Музыка", Bridge Hits
+http://178.212.71.253:8000/play/134/index.m3u8
+#EXTINF:-1 group-title="Музыка", Bridge
+http://178.212.71.253:8000/play/110/index.m3u8
+#EXTINF:-1 group-title="Музыка", Bridge Русский хит
+http://193.25.8.59:8000/rusong
+#EXTINF:-1 group-title="Музыка", Bridge Шлягер
+http://178.212.71.253:8000/play/142/index.m3u8
+#EXTINF:-1 group-title="Музыка", тест
+http://193.25.8.59:8000/mtv
+#EXTINF:-1 group-title="Музыка", Bridge Classic
+http://178.212.71.253:8000/play/135/index.m3u8
+#EXTINF:-1 group-title="Музыка", Bridge Rock
+http://178.212.71.253:8000/play/101/index.m3u8
+#EXTINF:-1 group-title="Музыка", Bridge Этно
+http://178.212.71.253:8000/play/65/index.m3u8
+#EXTINF:-1 group-title="Музыка", test
+http://31.148.48.15/Europa_Plus_HD/index.m3u8
+#EXTINF:-1 group-title="Музыка",Европа Плюс test
+http://193.25.8.59:8000/vh1
+#EXTINF:-1 group-title="Музыка",Ocko
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_lq.m3u8
+#EXTINF:-1 group-title="Музыка",TMF RU
+http://195.9.195.3:8080/hls/201891.m3u8
 #EXTINF:-1 group-title="Спорт" ,Eurosport 2 HD
 https://ucdn.beetv.kz/bpk-tv/000002479/tve/index.m3u8
 #EXTINF:-1 group-title="Спорт" ,Eurosport 1 HD
@@ -441,6 +491,22 @@ https://ucdn.beetv.kz/bpk-tv/000002478/tve/index.m3u8
 http://158.101.222.193:88/georgia_play.php?id=matchplaneta
 #EXTINF:-1 group-title="Спорт" ,Матч ТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
+#EXTINF:-1 group-title="Спорт", Матч! Премьер
+http://178.212.71.253:8000/play/57/index.m3u8
+#EXTINF:-1 group-title="Спорт", Матч! Арена
+http://87.120.142.11:18000/Match!Arena
+#EXTINF:-1 group-title="Спорт", Матч! Боец
+http://87.120.142.11:18000/Match!
+#EXTINF:-1 group-title="Спорт", Матч! Игра
+http://87.120.142.11:18000/Match!Igra
+#EXTINF:-1 group-title="Спорт", Матч! Страна
+http://178.212.71.253:8000/play/51/index.m3u8
+#EXTINF:-1 group-title="Спорт", Матч! Боец дубль
+http://178.212.71.253:8000/play/55/index.m3u8
+#EXTINF:-1 group-title="Спорт", Матч! Арена дубль
+http://178.212.71.253:8000/play/54/index.m3u8
+#EXTINF:-1 group-title="Спорт", Матч! Арена тест
+http://193.25.8.59:8000/sport1
 #EXTINF:-1 group-title="Спорт", Старт Баскет
 https://bl.webcaster.pro/media/playlist/free_621d169e5c631c638136df3cb136c5c9/33_68881676/1080p/b32eaae5fbf1d2b8211543566a1d9a78/4914392769.m3u8?live=15&ref=https://tvstart.ru/channels/start-basket-test/
 #EXTINF:-1 group-title="Спорт", Astrakhan.RU Sport HD
@@ -449,6 +515,10 @@ http://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
 https://ucdn.beetv.kz/bpk-tv/000007802/tve/index.m3u8
 #EXTINF:-1 group-title="Спорт" ,Бокс ТВ
 http://158.101.222.193:88/georgia_play.php?id=boxtv
+#EXTINF:-1 group-title="Спорт" ,FightBox
+https://stream2.somon.tv/Fightbox/index.m3u8
+#EXTINF:-1 group-title="Спорт" ,ММА
+http://93.170.254.17/MMATV/index.m3u8
 #EXTINF:-1 group-title="Спорт" ,Trace Urban HD
 https://ucdn.beetv.kz/bpk-tv/000001661/tve/index.m3u8
 #EXTINF:-1 group-title="Спорт" ,Trace Sport Stars HD
@@ -555,6 +625,8 @@ http://live.trkmillet.ru/millet/index.m3u8
 http://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
 #EXTINF:-1 group-title="Региональные",Maidan TV HD
 http://live-maidantv.cdnvideo.ru/maidantv/maidantv_720/playlist.m3u8
+#EXTINF:-1 group-title="Региональные",Салям HD
+http://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8
 #EXTINF:-1 group-title="Региональные" ,Курай-ТВ
 http://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8
 #EXTINF:-1 group-title="Региональные" ,БСТ HD
@@ -567,6 +639,8 @@ https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_STAVR_KAVKAZ24/var
 https://rt-sth-mahachk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_MAHACHK_DAGESTAN/variant.m3u8
 #EXTINF:-1 group-title="Региональные" ,Осетия-Ирыстон HD
 https://rt-sth-vkaz-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_VKAZ_IRISTON/variant.m3u8
+#EXTINF:-1 group-title="Региональные" ,Грозный
+https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/1.m3u8
 #EXTINF:-1 group-title="Казахстанские" ,QAZAQSTAN HD
 https://ucdn.beetv.kz/bpk-tv/000004208/tve/index.m3u8
 #EXTINF:-1 group-title="Казахстанские" ,Хабар HD
