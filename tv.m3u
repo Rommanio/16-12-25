@@ -13,40 +13,16 @@ https://ucdn.beetv.kz/bpk-tv/000003748/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000003747/tve/index.m3u8
 #EXTINF:-1 group-title="Кино" ,TV1000 action HD
 https://ucdn.beetv.kz/bpk-tv/000003910/tve/index.m3u8
-#EXTINF:-1 group-title="Кино" ,Viasat Kino Comedy HD
-http://ukr.ukrainske.tv/493/tvainua/video.m3u8
-#EXTINF:-1 group-title="Кино", Кино ТВ
-http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино", Мужское кино
 http://158.101.222.193:88/georgia_play.php?id=interesnoetv
+#EXTINF:-1 group-title="Хобби" ,Киномикс
+http://158.101.222.193:88/georgia_play.php?id=kinomiks
 #EXTINF:-1 group-title="Кино", Киноужас
 http://158.101.222.193:88/georgia_play.php?id=kinoujas
-#EXTINF:-1 group-title="Кино", Киноужас дубль
-http://178.212.71.253:8000/play/133/index.m3u8
-#EXTINF:-1 group-title="Кино", Шокирующее test
-http://vasilijsd.kazaktelekom.com/iptv/VEXVELA6Z7PXH6/6299/index.m3u8
-#EXTINF:-1 group-title="Кино", Кошмар ХД тест
+#EXTINF:-1 group-title="Кино", Кошмар HD
 http://195.9.195.3:8080/hls/204709.m3u8
-#EXTINF:-1 group-title="Кино", Кинохит HD
-http://195.158.223.132:8008/Kinohit
-#EXTINF:-1 group-title="Кино", Киномикс
-http://178.212.71.253:8000/play/70/index.m3u8
-#EXTINF:-1 group-title="Кино", Киномикс тест
-http://93.170.254.17/Kinomiks/index.m3u8
-#EXTINF:-1 group-title="Кино", Кинопремьера тест
-http://178.212.71.253:8000/play/125/index.m3u8
-#EXTINF:-1 group-title="Кино", Наше новое кино HD
-https://vod.splay.uz/live_splay/original/Nashe_novoe_kino/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кино", Киносвидание
-http://195.158.223.132:8008/Kinosvidanie
-#EXTINF:-1 group-title="Кино", Кинокомедия
-http://178.212.71.253:8000/play/85/index.m3u8
-#EXTINF:-1 group-title="Кино", Киносемья тест
-http://178.212.71.253:8000/play/127/index.m3u8
 #EXTINF:-1 group-title="Кино", Индийское Кино
 http://188.113.190.12/329/index.m3u8
-#EXTINF:-1 group-title="Кино", Родное кино
-http://84.54.128.52:9090/play/a009/index.m3u8
 #EXTINF:-1 group-title="Кино", Кинопоказ
 http://95.66.188.74/Kinopokaz/mono.m3u8
 #EXTINF:-1 group-title="Кино" ,Феникс+Кино
@@ -63,12 +39,8 @@ https://ucdn.beetv.kz/bpk-tv/000008489/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000008135/tve/index.m3u8
 #EXTINF:-1 group-title="Кино" ,Dizi test
 http://194.158.222.36:6086
-#EXTINF:-1 group-title="Кино" ,Dizi
-http://193.25.8.59:8000/tlc
 #EXTINF:-1 group-title="Кино" ,Про любовь
 http://vod.stb.tvime.ru/Pro_Lubov_HD/video.m3u8
-#EXTINF:-1 group-title="Кино",Ultra HD Cinema test
-http://a775797544-zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/video_1920x1080_avc1/playlist.m3u8?version=3#parser
 #EXTINF:-1 group-title="Кино" ,Русский Иллюзион
 https://ucdn.beetv.kz/bpk-tv/000004207/tve/index.m3u8
 #EXTINF:-1 group-title="Кино" ,Премиум Кино HD
@@ -181,6 +153,8 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_4/variant.m3u8
 #EXTINF:-1 group-title="Общие",ТНТ (+7)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8
+#EXTINF:-1 group-title="Общие",ТНТ HD
+https://livetv-app.mylifeisgood.net.ru/channels/tnthd.m3u8
 #EXTINF:-1 group-title="Общие",ТНТ4
 https://ucdn.beetv.kz/bpk-tv/000002926/tve/index.m3u8
 #EXTINF:-1 group-title="Общие",ТНТ4
@@ -191,6 +165,8 @@ https://s25617.cdn.ngenix.net/mdrm/CH_TNT4_2/variant.m3u8
 https://s25617.cdn.ngenix.net/mdrm/CH_TNT4_4/variant.m3u8	
 #EXTINF:-1 group-title="Общие",ТНТ4 (+7)
 https://s25617.cdn.ngenix.net/mdrm/CH_TNT4_7/variant.m3u8
+#EXTINF:-1 group-title="Общие",ТНТ4 HD
+https://livetv-app.mylifeisgood.net.ru/channels/tnt4.m3u8
 #EXTINF:-1 group-title="Общие",Россия К
 https://ucdn.beetv.kz/bpk-tv/000000066/tve/index.m3u8
 #EXTINF:-1 group-title="Новости",Россия 24
@@ -209,8 +185,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_4/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/variant.m3u8
 #EXTINF:-1 group-title="Общие",НТВ HD
 http://cdn2.ntv.ru/ntv0_hd/playlist.m3u8
-#EXTINF:-1 group-title="Общие",НТВ-Беларусь
-http://194.158.222.36:6107
 #EXTINF:-1 group-title="Общие",НТВ Стиль
 https://ucdn.beetv.kz/bpk-tv/000002761/tve/index.m3u8
 #EXTINF:-1 group-title="Общие",НТВ Сериал
@@ -251,6 +225,8 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_2/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_4/variant.m3u8
 #EXTINF:-1 group-title="Общие",ТВ3 (+7)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_7/variant.m3u8
+#EXTINF:-1 group-title="Общие",ТВ3 HD
+https://livetv-app.mylifeisgood.net.ru/channels/tv3hd.m3u8
 #EXTINF:-1 group-title="Общие",Домашний International
 https://ucdn.beetv.kz/bpk-tv/000002348/tve/index.m3u8
 #EXTINF:-1 group-title="Общие",Домашний
@@ -319,6 +295,8 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 https://ucdn.beetv.kz/bpk-tv/000001248/tve/index.m3u8
 #EXTINF:-1 group-title="Общие",Че! (+7)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_7/variant.m3u8
+#EXTINF:-1 group-title="Общие",ОТР
+https://livetv-app.mylifeisgood.net.ru/channels/otr24.m3u8
 #EXTINF:-1 group-title="Общие",Ю (+4)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U_4/variant.m3u8
 #EXTINF:-1 group-title="Общие",Ю (+7)
@@ -339,16 +317,10 @@ https://ucdn.beetv.kz/bpk-tv/000000026/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000002510/tve/index.m3u8
 #EXTINF:-1 group-title="Хобби" ,Диалоги о Рыбалке
 https://ucdn.beetv.kz/bpk-tv/000003174/tve/index.m3u8
-#EXTINF:-1 group-title="Хобби",Дикая охота HD test
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_DOMASHNIY/variant.m3u8
-#EXTINF:-1 group-title="Хобби",Дикая рыбалка HD test
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_PERETZ/variant.m3u8
 #EXTINF:-1 group-title="Хобби" ,Авто Плюс
 http://158.101.222.193:88/georgia_play.php?id=autoplus
 #EXTINF:-1 group-title="Развлечение" ,Домашние животные
 https://ucdn.beetv.kz/bpk-tv/000000146/tve/index.m3u8
-#EXTINF:-1 group-title="Развлечение" ,Психология тест
-http://178.212.71.253:8000/play/96/index.m3u8
 #EXTINF:-1 group-title="Развлечение" ,Глазами Туриста HD
 https://ucdn.beetv.kz/bpk-tv/000001414/tve/index.m3u8
 #EXTINF:-1 group-title="Развлечение" ,National Geographic HD
@@ -421,8 +393,6 @@ https://ucdn.beetv.kz/bpk-tv/000008877/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000001921/tve/index.m3u8
 #EXTINF:-1 group-title="Развлечение" ,АВТО 24
 https://ucdn.beetv.kz/bpk-tv/000000815/tve/index.m3u8
-#EXTINF:-1 group-title="Развлечение" ,Fast & FunBox
-http://193.25.8.59:8000/Avto24
 #EXTINF:-1 group-title="Развлечение" ,Зоопарк
 https://ucdn.beetv.kz/bpk-tv/000000260/tve/index.m3u8
 #EXTINF:-1 group-title="Развлечение" ,Вопросы и ответы
@@ -439,6 +409,8 @@ https://ucdn.beetv.kz/bpk-tv/000001020/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000000204/tve/index.m3u8
 #EXTINF:-1 group-title="Музыка" ,ТНТ Music
 https://ucdn.beetv.kz/bpk-tv/000000013/tve/index.m3u8
+#EXTINF:-1 group-title="Музыка" ,Муз ТВ HD test
+https://livetv-app.mylifeisgood.net.ru/channels/muztvhd.m3u8
 #EXTINF:-1 group-title="Музыка" ,МУЗ ТВ (+4)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_4/variant.m3u8
 #EXTINF:-1 group-title="Музыка" ,Первый музыкальный
@@ -459,26 +431,6 @@ https://ucdn.beetv.kz/bpk-tv/000000327/tve/index.m3u8
 http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8
 #EXTINF:-1 group-title="Музыка", Bridge Fresh
 http://195.158.223.132:8004/Bridge_Fresh
-#EXTINF:-1 group-title="Музыка", Bridge Hits
-http://178.212.71.253:8000/play/134/index.m3u8
-#EXTINF:-1 group-title="Музыка", Bridge
-http://178.212.71.253:8000/play/110/index.m3u8
-#EXTINF:-1 group-title="Музыка", Bridge Русский хит
-http://193.25.8.59:8000/rusong
-#EXTINF:-1 group-title="Музыка", Bridge Шлягер
-http://178.212.71.253:8000/play/142/index.m3u8
-#EXTINF:-1 group-title="Музыка", тест
-http://193.25.8.59:8000/mtv
-#EXTINF:-1 group-title="Музыка", Bridge Classic
-http://178.212.71.253:8000/play/135/index.m3u8
-#EXTINF:-1 group-title="Музыка", Bridge Rock
-http://178.212.71.253:8000/play/101/index.m3u8
-#EXTINF:-1 group-title="Музыка", Bridge Этно
-http://178.212.71.253:8000/play/65/index.m3u8
-#EXTINF:-1 group-title="Музыка", test
-http://31.148.48.15/Europa_Plus_HD/index.m3u8
-#EXTINF:-1 group-title="Музыка",Европа Плюс test
-http://193.25.8.59:8000/vh1
 #EXTINF:-1 group-title="Музыка",Ocko
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_lq.m3u8
 #EXTINF:-1 group-title="Музыка",TMF RU
@@ -491,22 +443,6 @@ https://ucdn.beetv.kz/bpk-tv/000002478/tve/index.m3u8
 http://158.101.222.193:88/georgia_play.php?id=matchplaneta
 #EXTINF:-1 group-title="Спорт" ,Матч ТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
-#EXTINF:-1 group-title="Спорт", Матч! Премьер
-http://178.212.71.253:8000/play/57/index.m3u8
-#EXTINF:-1 group-title="Спорт", Матч! Арена
-http://87.120.142.11:18000/Match!Arena
-#EXTINF:-1 group-title="Спорт", Матч! Боец
-http://87.120.142.11:18000/Match!
-#EXTINF:-1 group-title="Спорт", Матч! Игра
-http://87.120.142.11:18000/Match!Igra
-#EXTINF:-1 group-title="Спорт", Матч! Страна
-http://178.212.71.253:8000/play/51/index.m3u8
-#EXTINF:-1 group-title="Спорт", Матч! Боец дубль
-http://178.212.71.253:8000/play/55/index.m3u8
-#EXTINF:-1 group-title="Спорт", Матч! Арена дубль
-http://178.212.71.253:8000/play/54/index.m3u8
-#EXTINF:-1 group-title="Спорт", Матч! Арена тест
-http://193.25.8.59:8000/sport1
 #EXTINF:-1 group-title="Спорт", Старт Баскет
 https://bl.webcaster.pro/media/playlist/free_621d169e5c631c638136df3cb136c5c9/33_68881676/1080p/b32eaae5fbf1d2b8211543566a1d9a78/4914392769.m3u8?live=15&ref=https://tvstart.ru/channels/start-basket-test/
 #EXTINF:-1 group-title="Спорт", Astrakhan.RU Sport HD
@@ -515,10 +451,6 @@ http://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
 https://ucdn.beetv.kz/bpk-tv/000007802/tve/index.m3u8
 #EXTINF:-1 group-title="Спорт" ,Бокс ТВ
 http://158.101.222.193:88/georgia_play.php?id=boxtv
-#EXTINF:-1 group-title="Спорт" ,FightBox
-https://stream2.somon.tv/Fightbox/index.m3u8
-#EXTINF:-1 group-title="Спорт" ,ММА
-http://93.170.254.17/MMATV/index.m3u8
 #EXTINF:-1 group-title="Спорт" ,Trace Urban HD
 https://ucdn.beetv.kz/bpk-tv/000001661/tve/index.m3u8
 #EXTINF:-1 group-title="Спорт" ,Trace Sport Stars HD
@@ -759,3 +691,19 @@ http://icecast-radiovanya.cdnvideo.ru:8000/radiovanya
 http://emgregion.hostingradio.ru:8064/moscow.retrofm.mp3
 #EXTINF:-1 group-title="Радио",Хит FM
 http://hitfm.hostingradio.ru/hitfm128.mp3
+#EXTINF:-1 group-title="Радио",Радио Родных Дорог
+https://livetv-app.mylifeisgood.net.ru/channels/radiorodniyxdorog.m3u8
+#EXTINF:-1 tvg-id="" group-title="Радио",Радио Maximum
+https://livetv-app.mylifeisgood.net.ru/channels/radiomaximus.m3u8
+#EXTINF:-1 group-title="Радио",Comedy Radio
+https://livetv-app.mylifeisgood.net.ru/channels/comedyradio.m3u8
+#EXTINF:-1 group-title="Радио",Ретро ФМ
+https://livetv-app.mylifeisgood.net.ru/channels/retrofm.m3u8
+#EXTINF:-1 group-title"Радио",Радио Звезда
+https://livetv-app.mylifeisgood.net.ru/channels/radiozvezda.m3u8
+#EXTINF:-1 group-title="Радио",Радио Romantica
+https://livetv-app.mylifeisgood.net.ru/channels/radioromantica.m3u8
+#EXTINF:-1 group-title="Радио",Радио для двоих
+https://livetv-app.mylifeisgood.net.ru/channels/radiodlyadvoix.m3u8
+#EXTINF:-1 group-title="Познавательные UHD TEST4K",Наша Сибирь 4K
+https://livetv-app.mylifeisgood.net.ru/channels/nashasibir4k.m3u8
