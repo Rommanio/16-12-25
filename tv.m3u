@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="Общие",Ю (+7)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
-#EXTINF:-1 group-title="Кино",SD REX
-http://tv.ttk.mx:9095
-#EXTINF:-1 group-title="Кино",TV1 (KG)
-http://212.2.225.30:1935/live/site.stream/playlist.m3u8
 #EXTINF:-1 group-title="Кино" ,Vip Premiere HD
 https://ucdn.beetv.kz/bpk-tv/000000868/tve/index.m3u8
 #EXTINF:-1 group-title="Кино" ,Vip Megahit HD
@@ -19,32 +15,94 @@ https://ucdn.beetv.kz/bpk-tv/000003748/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000003747/tve/index.m3u8
 #EXTINF:-1 group-title="Кино" ,TV1000 action HD
 https://ucdn.beetv.kz/bpk-tv/000003910/tve/index.m3u8
-#EXTINF:-1 group-title="Кино", Мужское кино
-http://158.101.222.193:88/georgia_play.php?id=interesnoetv
-#EXTINF:-1 group-title="Хобби" ,Киномикс
-http://158.101.222.193:88/georgia_play.php?id=kinomiks
-#EXTINF:-1 group-title="Кино", Киноужас
-http://158.101.222.193:88/georgia_play.php?id=kinoujas
+#EXTINF:-1 group-title="Кино",Кино ТВ
+http://tv.ttk.mx:9046
+#EXTINF:-1 group-title="Кино",Кино ТВ HD
+http://tv.ttk.mx:9113
+#EXTINF:-1 group-title="Кино",Кинопоказ
+http://tv.ttk.mx:9150
+#EXTINF:-1 group-title="Кино",1FILMAX HD
+http://195.9.195.3:8080/hls/204708.m3u8
+#EXTINF:-1 group-title="Кино",2FILMAX HD
+http://195.9.195.3:8080/hls/204717.m3u8
 #EXTINF:-1 group-title="Кино", Кошмар HD
 http://195.9.195.3:8080/hls/204709.m3u8
+#EXTINF:-1 group-title="Кино",Киноужас
+http://158.101.222.193:88/georgia_play.php?id=kinoujas
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/542.png" group-title="Кино",Кинохит HD
+http://158.101.222.193:88/georgia_play.php?id=kinohit
+#EXTINF:-1 group-title="Кино",Мужское кино
+http://158.101.222.193:88/georgia_play.php?id=interesnoetv
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/644.png" group-title="Кино",Киномикс
+http://158.101.222.193:88/georgia_play.php?id=kinomiks
+#EXTINF:-1 group-title="Кино",Кинопремьера HD
+http://tv.ttk.mx:9162
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/821.png" group-title="Кино",Кинокомедия HD
+http://158.101.222.193:88/georgia_play.php?id=kinokomediya
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/462.png" group-title="Кино",Киносвидание
+http://158.101.222.193:88/georgia_play.php?id=kinosvidanie
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/987.png" group-title="Кино",Киносемья
+http://158.101.222.193:88/georgia_play.php?id=kinosemya
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/799.png" group-title="Кино",Киносерия
+http://158.101.222.193:88/georgia_play.php?id=kinoseria
+#EXTINF:-1 group-title="Кино",Наше новое кино
+http://158.101.222.193:88/georgia_play.php?id=nashanovoekino
 #EXTINF:-1 group-title="Кино", Индийское Кино
 http://188.113.190.12/329/index.m3u8
-#EXTINF:-1 group-title="Кино", Кинопоказ
+#EXTINF:-1 group-title="Кино", Кинопоказ тест
 http://95.66.188.74/Kinopokaz/mono.m3u8
+#EXTINF:-1 group-title="Кино",Кинопоказ HD
+http://hls127.freeott.top:8080/Kinopokaz_HD/mono.m3u8
+#EXTINF:-1 group-title="Кино",Cine+ Legend HD
+http://193.27.209.122/cine_plus_legend/index.m3u8
+#EXTINF:-1 group-title="Кино",Cinema X
+http://195.9.195.3:8080/hls/218531.m3u8
+#EXTINF:-1 group-title="Кино",Clarity4K Ужасы
+http://hls127.freeott.top:8080/Clarity4K_Uzhasi/mono.m3u8
+#EXTINF:-1 group-title="Кино",Clarity4K Фантастика
+http://hls127.freeott.top:8080/Clarity4K_Fantastic/mono.m3u8
+#EXTINF:-1 group-title="КИНО",Clarity4K Netflix
+http://hls127.freeott.top:8080/Clarity4K_Netflix/mono.m3u8
+#EXTINF:-1 tvg-logo="https://b.radikal.ru/b12/2105/e1/54a1ac35e10c.png" group-title="КИНО",Go3 Films HD
+http://345f89f7.ottrast.com/iptv/FPZT65DBZMSUCU/18008/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/logos/3a88436baae7495719cbc69c6f020f52.png" group-title="Кино",HGTN
+https://v2.catcast.tv/content/34251/index.m3u8
+#EXTINF:-1 group-title="Кино",Kino Non Stop HD
+http://195.9.195.3:8080/hls/218251.m3u8
+#EXTINF:-1 group-title="Кино",MyTV
+http://hls127.freeott.top:8080/MyTV/mono.m3u8
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/17102025/banners/49702-68f21e2ea83d1.png" group-title="Кино",TvBoom-ViP
+https://kb.catcast.tv/content/49702/index.m3u8
+#EXTINF:-1 group-title="Кино",Akudji TV
+http://195.9.195.3:8080/hls/5346.m3u8
+#EXTINF:-1 group-title="Кино",FAN
+http://195.9.195.3:8080/hls/157239.m3u8
+#EXTINF:-1 group-title="Кино",Fantom TV
+http://195.9.195.3:8080/hls/204722.m3u8
+#EXTINF:-1 group-title="Кино",SD REX
+http://tv.ttk.mx:9095
+#EXTINF:-1 group-title="Кино",TV1 (KG)
+http://212.2.225.30:1935/live/site.stream/playlist.m3u8
 #EXTINF:-1 group-title="Кино" ,Феникс+Кино
 https://ucdn.beetv.kz/bpk-tv/000000125/tve/index.m3u8
-#EXTINF:-1 group-title="Кино", Русский роман
+#EXTINF:-1 group-title="Кино",Русский Роман HD
+http://tv.ttk.mx:9085
+#EXTINF:-1 group-title="Кино",Русский Бестселлер
+http://tv.ttk.mx:9043
+#EXTINF:-1 group-title="Кино",Русский Детектив
+http://tv.ttk.mx:9051
+#EXTINF:-1 group-title="Кино", Русский роман тест
 http://85.208.223.249:8888/play/a007
-#EXTINF:-1 group-title="Кино", Русский детектив
+#EXTINF:-1 group-title="Кино", Русский детектив тест
 http://195.158.223.132:8008/Russkiy_Detektiv
-#EXTINF:-1 group-title="Кино",РУССКИЙ БЕСТСЕЛЛЕР
+#EXTINF:-1 group-title="Кино",РУССКИЙ БЕСТСЕЛЛЕР тест
 http://31.148.48.15:80/Russkiy_Bestseller/index.m3u8?token=test
 #EXTINF:-1 group-title="Кино" ,Семейное кино HD
 https://ucdn.beetv.kz/bpk-tv/000008489/tve/index.m3u8
 #EXTINF:-1 group-title="Кино" ,Сапфир HD
 https://ucdn.beetv.kz/bpk-tv/000008135/tve/index.m3u8
-#EXTINF:-1 group-title="Кино" ,Dizi test
-http://194.158.222.36:6086
+#EXTINF:-1 group-title="Кино",Timeless Dizi Channel
+http://tv.ttk.mx:9189
 #EXTINF:-1 group-title="Кино" ,Про любовь
 http://vod.stb.tvime.ru/Pro_Lubov_HD/video.m3u8
 #EXTINF:-1 group-title="Кино" ,Русский Иллюзион
