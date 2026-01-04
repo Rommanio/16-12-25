@@ -72,7 +72,8 @@ http://hls127.freeott.top:8080/MyTV/mono.m3u8
 https://kb.catcast.tv/content/49702/index.m3u8
 #EXTINF:-1 group-title="Кино",Akudji TV
 http://195.9.195.3:8080/hls/5346.m3u8
-#EXTINF:-1 group-title="Кино",FAN
+#EXTINF:-1 group-title="Кино" tvg-logo="https://i.postimg.cc/Pf3wtFTm/FAN.png",FAN HD
+#EXTVLCOPT:http-user-agent=SmartTV
 http://195.9.195.3:8080/hls/157239.m3u8
 #EXTINF:-1 group-title="Кино",Fantom TV
 http://195.9.195.3:8080/hls/204722.m3u8
