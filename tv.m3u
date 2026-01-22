@@ -16,8 +16,12 @@ https://ucdn.beetv.kz/bpk-tv/000003748/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000003747/tve/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/125.png" group-title="Кино",TV 1000 Action HD
 https://ucdn.beetv.kz/bpk-tv/000003910/tve/index.m3u8
+#EXTINF:-1 group-title="Кино",TV 1000 romantica
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=qJulrfftrRp68zHrIpt67w&e=1769270065&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 #EXTINF:-1 group-title="Кино",Кино ТВ HD
 http://tv.ttk.mx:9113
+#EXTINF:-1 group-title="Кино",Кино ТВ
+http://tv.ttk.mx:9046
 #EXTINF:-1 group-title="Кино",Кинопоказ
 http://tv.ttk.mx:9150
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/kino-tv.png" group-title="Кино",Кино ТВ
@@ -52,6 +56,8 @@ http://158.101.222.193:88/georgia_play.php?id=kinoseria
 http://158.101.222.193:88/georgia_play.php?id=nashanovoekino
 #EXTINF:-1 group-title="Кино", Индийское Кино
 http://188.113.190.12/329/index.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино"  ,Индийское кино (тестпеерс)
+http://api.peers.tv/timeshift/indiatv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjkxNjYxNTEsImlhdCI6MTc2OTA3OTc1MSwiY2lkIjo2LCJ1aWQiOjk5Mjk0NTcxMCwicmVnIjpmYWxzZSwiaXAiOjM1ODQzNzU4NzgsImFkdWx0IjpmYWxzZX0.rJWBGIdSthhwa_K6VVQ8v_29aNDjkJdAsSM_kvrdrqI&offset=10
 #EXTINF:-1 group-title="Кино", Кинопоказ тест
 http://95.66.188.74/Kinopokaz/mono.m3u8
 #EXTINF:-1 group-title="Кино",Кинопоказ HD
@@ -93,6 +99,16 @@ http://85.208.223.249:8888/play/a007
 http://195.158.223.132:8008/Russkiy_Detektiv
 #EXTINF:-1 group-title="Кино",РУССКИЙ БЕСТСЕЛЛЕР тест
 http://31.148.48.15:80/Russkiy_Bestseller/index.m3u8?token=test
+#EXTINF:-1 group-title="Кино",Русский Бестселлер
+http://tv.ttk.mx:9043
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино" ,Русский бестселлер (тестпеерс)
+http://api.peers.tv/timeshift/russia_best/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjkxNjYxNTEsImlhdCI6MTc2OTA3OTc1MSwiY2lkIjo2LCJ1aWQiOjk5Mjk0NTcxMCwicmVnIjpmYWxzZSwiaXAiOjM1ODQzNzU4NzgsImFkdWx0IjpmYWxzZX0.rJWBGIdSthhwa_K6VVQ8v_29aNDjkJdAsSM_kvrdrqI&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино" ,Русский детектив (тестпеерс)
+http://api.peers.tv/timeshift/russkiy_detektiv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjkxNjYxNTEsImlhdCI6MTc2OTA3OTc1MSwiY2lkIjo2LCJ1aWQiOjk5Mjk0NTcxMCwicmVnIjpmYWxzZSwiaXAiOjM1ODQzNzU4NzgsImFkdWx0IjpmYWxzZX0.rJWBGIdSthhwa_K6VVQ8v_29aNDjkJdAsSM_kvrdrqI&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино" ,Русский роман (тестпеерс)
+http://api.peers.tv/timeshift/russian_roman/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjkxNjYxNTEsImlhdCI6MTc2OTA3OTc1MSwiY2lkIjo2LCJ1aWQiOjk5Mjk0NTcxMCwicmVnIjpmYWxzZSwiaXAiOjM1ODQzNzU4NzgsImFkdWx0IjpmYWxzZX0.rJWBGIdSthhwa_K6VVQ8v_29aNDjkJdAsSM_kvrdrqI&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино" ,Советское кино (тестпеерс)
+http://api.peers.tv/timeshift/sovetskoekino/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjkxNjYxNTEsImlhdCI6MTc2OTA3OTc1MSwiY2lkIjo2LCJ1aWQiOjk5Mjk0NTcxMCwicmVnIjpmYWxzZSwiaXAiOjM1ODQzNzU4NzgsImFkdWx0IjpmYWxzZX0.rJWBGIdSthhwa_K6VVQ8v_29aNDjkJdAsSM_kvrdrqI&offset=10
 #EXTINF:-1 group-title="Кино" ,Семейное кино HD
 https://ucdn.beetv.kz/bpk-tv/000008489/tve/index.m3u8
 #EXTINF:-1 group-title="Кино" ,Сапфир HD
