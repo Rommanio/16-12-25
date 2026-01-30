@@ -18,6 +18,8 @@ https://ucdn.beetv.kz/bpk-tv/000003747/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000003910/tve/index.m3u8
 #EXTINF:-1 group-title="Кино",Yosso TV New Кино
 http://6a0296cf.edemist.com/iptv/F65BX3TKGTCBZQ/14177/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1037.png" group-title="Кино",Кино ТВ
+http://185.46.16.239:8000/Kino_TV
 #EXTINF:-1 group-title="Кино",Кинопоказ
 http://tv.ttk.mx:9150
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KYtnPSjY/image.png" group-title="Кино", Scripach TV
