@@ -2,6 +2,9 @@
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/yu.png" group-title="Общие",Ю (Рутюб)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?s=jVQFbhS5-99IUd2CMC2fTw&e=2075026756&scheme=https
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/yu.png" group-title="Общие",Ю
+https://livetv-app.mylifeisgood.net.ru/channels/u_ott_tv_hq.m3u8
+
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/yu.png" group-title="Общие",Ю (+7)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
 
