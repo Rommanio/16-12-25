@@ -5,19 +5,19 @@ https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?s=jV
 
 
 
-#EXTINF:-1 group-title="Кино" ,Vip Premiere HD
+#EXTINF:-1 group-title="Кино" ,Viju+ Premiere HD
 https://ucdn.beetv.kz/bpk-tv/000000868/tve/index.m3u8
-#EXTINF:-1 group-title="Кино" ,Vip Megahit HD
+#EXTINF:-1 group-title="Кино" ,Viju+ Megahit HD
 https://ucdn.beetv.kz/bpk-tv/000000869/tve/index.m3u8
-#EXTINF:-1 group-title="Кино" ,Vip Comedy HD
+#EXTINF:-1 group-title="Кино" ,Viju+ Comedy HD
 https://ucdn.beetv.kz/bpk-tv/000000870/tve/index.m3u8
-#EXTINF:-1 group-title="Кино" ,Vip Serial HD
+#EXTINF:-1 group-title="Кино" ,Viju+ Serial HD
 https://ucdn.beetv.kz/bpk-tv/000004375/tve/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/267.png" group-title="Кино",TV 1000 Русское кино HD
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/267.png" group-title="Кино",Viju TV1000 Русское кино HD
 https://ucdn.beetv.kz/bpk-tv/000003748/tve/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/127.png" group-title="Кино",TV 1000 HD
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/127.png" group-title="Кино",Viju TV1000 HD
 https://ucdn.beetv.kz/bpk-tv/000003747/tve/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/125.png" group-title="Кино",TV 1000 Action HD
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/125.png" group-title="Кино",Viju TV1000 Action HD
 https://ucdn.beetv.kz/bpk-tv/000003910/tve/index.m3u8
 
 #EXTINF:-1 group-title="Кино",Viju TV1000 Новелла HD
@@ -77,10 +77,9 @@ http://hls127.freeott.top:8080/CPS_Fresh/video.m3u8
 
 #EXTINF:-1 group-title="Кино",SD REX
 
-#EXTINF:-1 group-title="Кино",SD REX
-
 #EXTINF:-1 group-title="Кино",TV1 (KG)
 http://212.2.225.30:1935/live/site.stream/playlist.m3u8
+
 #EXTINF:-1 group-title="Кино", Мир сериала 
 
 #EXTINF:-1 group-title="Кино" ,Феникс+Кино
