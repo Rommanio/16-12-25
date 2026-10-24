@@ -1043,6 +1043,24 @@ https://live.teleradiocom.tj/11/3m.m3u8
 https://live.teleradiocom.tj/15/3m.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sEXCFNk.png" group-title="Таджикские",Tojikiston
 https://live.teleradiocom.tj/1/3m.m3u8
+
+#EXTINF:-1 group-title="Эротика", Babes TV HD
+http://stream.mcquack.net/55/index.m3u8
+#EXTINF:-1 group-title="Эротика", Искушение
+http://185.23.80.23:8080/BarelyLegal/index.m3u8
+#EXTINF:-1 group-title="Эротика", Соблазн
+http://185.23.80.23:8080/BlueHustler/index.m3u8
+#EXTINF:-1 group-title="Эротика", Brazzers TV Europe
+http://185.23.80.23:8080/BrazzersTV/index.m3u8
+#EXTINF:-1 group-title="Эротика", Brazzers TV Europe HD
+http://193.239.187.102/BRAZZERS/index.m3u8
+#EXTINF:-1 group-title="Эротика", Erox HD
+http://stream.mcquack.net/58/index.m3u8
+#EXTINF:-1 group-title="Эротика", Exxxotica HD
+http://stream.mcquack.net/57/index.m3u8
+#EXTINF:-1 group-title="Эротика", Vivid Red
+http://stream.mcquack.net/284/index.m3u8
+
 #EXTINF:-1 group-title="Радио",Дорожное Радио
 http://emgregion.hostingradio.ru:8064/moscow.dorognoe.mp3
 #EXTINF:-1 group-title="Радио",Наше радио
